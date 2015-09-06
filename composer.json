@@ -1,0 +1,11 @@
+{
+    "name": "jacques/ubiquitous-hockeypuck",
+    "description": "Test app for testing Slim Middleware",
+    "license": "MIT",
+    "require": {
+        "slim/slim": "~2.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8"
+    }
+}
